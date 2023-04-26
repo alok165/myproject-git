@@ -1,3 +1,7 @@
  this is alok
+<<<<<<< Updated upstream
 
 hello alok i made 
+=======
+I addeda new line
+>>>>>>> Stashed changes
